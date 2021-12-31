@@ -1,0 +1,40 @@
+#dream-suite-badge {
+	background: #fff;
+	min-height: 50px;
+	padding: 20px;
+}
+
+.partner-badge-holder {
+	text-align: center;
+}
+
+#cf {
+  position:relative;
+  height:auto;
+  width:165px;
+  margin:0 auto;
+  border-radius: 5px;
+}
+/*
+#cf:hover {
+        filter: drop-shadow(2px 2px 3px #999);
+        transition: opacity .5s ease-in-out;
+}*/
+
+#cf img {
+	background: #fff;
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity .5s ease-in-out;
+  -moz-transition: opacity .5s ease-in-out;
+  -o-transition: opacity .5s ease-in-out;
+  transition: opacity .5s ease-in-out;
+  width:165px;
+  height:auto;
+	border-radius: 5px;
+      //  filter: drop-shadow(2px 2px 3px #eee);
+}
+
+#cf img.top:hover {
+  opacity: 0;
+}
