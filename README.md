@@ -1,14 +1,14 @@
 
 
-# Labate.IO-Partnership-Badge
+# Dream-Suite-Collective-Badge
 
 ###	============================================
-##		LABATE.IO PARTNERSHIP BADGE 
+##		Dream-Suite-Collective-Badge 
 ###	============================================
 
 
 
-##  	     INSTRUCTIONS for LABATE.IO PARTNERS
+##  	     INSTRUCTIONS for Dream Suite Collective Badge
 ###  	----------------------------------------------
        
 1. OPTIONAL: Check index.html file to check how & where to place the.
@@ -17,13 +17,13 @@
 2. Add these lines on your website just before </head> :
 ---
 	<!-- Labate.io Partnership Badge - CSS File -->
-	<link href="https://labate-io.github.io/Labate.IO-Partnership-Badge/labate.css" rel="stylesheet">
+	<link href="https://labate-io.github.io/Dream-Suite-Collective-Badge/dream-suite-badge.css" rel="stylesheet">
 ---
 
 3. Add these lines on your website just before </body> :
 ---
 	<!-- Labate.io Partnership Badge - JS File -->
-	<script type="text/javascript" src="https://labate-io.github.io/Labate.IO-Partnership-Badge/labate.js"></script>
+	<script type="text/javascript" src="https://labate-io.github.io/Dream-Suite-Collective-Badge/dream-suite-badge.js"></script>
 ---
 
 
