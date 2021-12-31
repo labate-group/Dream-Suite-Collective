@@ -11,7 +11,7 @@ function partner_badge() {
 	//Set its unique ID.
 	partner_badge_container.id = 'dream-suite-badge';
 	//Add your content to the DIV
-	partner_badge_container.innerHTML = '<div class="partner-badge-holder"><div id="cf"><img class="bottom" src="dream-suite-collective-b.webp"><img class="top" src="dream-suite-collective.webp"></div></div>';
+	partner_badge_container.innerHTML = '<div class="partner-badge-holder"><div id="cf"><a href="https://labate.vip/dream-suite" target="_blank" title="Learn more about Dream Suite Collective!"><img class="bottom" src="dream-suite-collective-b.webp"><img class="top" src="dream-suite-collective.webp"></a></div></div>';
 	//Finally, append the element to the HTML body
 	document.body.appendChild(partner_badge_container);
 }
