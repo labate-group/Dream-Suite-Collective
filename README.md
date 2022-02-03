@@ -16,13 +16,11 @@
        
 2. Add these lines on your website just before </head> :
 ---
-	<!-- Labate.io Partnership Badge - CSS File -->
 	<link href="https://labate-io.github.io/Dream-Suite-Collective-Badge/dream-suite-badge.css" rel="stylesheet">
 ---
 
 3. Add these lines on your website just before </body> :
 ---
-	<!-- Labate.io Partnership Badge - JS File -->
 	<script type="text/javascript" src="https://labate-io.github.io/Dream-Suite-Collective-Badge/dream-suite-badge.js"></script>
 ---
 
